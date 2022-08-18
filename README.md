@@ -25,6 +25,6 @@ I am a Python-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBt
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
 
 ### :fire: My Stats :
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=CoockieVii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=CoockieVii&theme=solarized_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=CoockieVii&theme=solarized_dark)
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoockieVii&layout=compact&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoockieVii&layout=compact&theme=vision-friendly-dark)
