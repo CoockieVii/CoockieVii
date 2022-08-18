@@ -1,5 +1,6 @@
 ### :woman_technologist: About Me :
 Hi! My name is Ilmir, Python-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+<p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
 ### :hammer_and_wrench: Languages and Tools :
 
