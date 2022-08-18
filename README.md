@@ -1,12 +1,3 @@
-### hey there 
-<a href="https://kazan.hh.ru/resume/529dfa33ff09a7935c0039ed1f4846695a3970">
-  <img align="left" alt="Instagram" width="22px" src="https://tech.hh.ru/api/logos/min-hh-red.png" />
-</a>
-<a href="https://www.linkedin.com/in/coockievii/">
-  <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
-</a>
----
-
 ### :woman_technologist: About Me :
 I am a Python-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
