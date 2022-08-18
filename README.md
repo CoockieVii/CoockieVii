@@ -12,5 +12,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
 
 ### :fire: My Stats :
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoockieVii&layout=compact&theme=vision-friendly-dark)
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoockieVii&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoockieVii&layout=compact&theme=vision-friendly-dark)
+
