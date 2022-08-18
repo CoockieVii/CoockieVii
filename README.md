@@ -5,7 +5,7 @@
 <a href="https://www.linkedin.com/in/coockievii/">
   <img align="left" alt="LinkedIN" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
 </a>
-
+---
 
 ### :woman_technologist: About Me :
 I am a Python-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
