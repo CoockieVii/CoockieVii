@@ -13,5 +13,5 @@
 </div>
 
 ### :fire: My Stats :
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoockieVii&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoockieVii&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoockieVii&layout=compact&theme=vision-friendly-dark)](https://github.com/CoockieVii/)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoockieVii&show_icons=true&theme=radical)(https://github.com/CoockieVii/)
