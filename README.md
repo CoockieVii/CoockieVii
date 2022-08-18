@@ -1,4 +1,4 @@
-### :woman_technologist: About Me :                                                               <a align="right"><img src="https://komarev.com/ghpvc/?username=CoockieVii&style=flat-square&color=blue" alt=""></a>
+### :woman_technologist: About Me : <a align="centr"><img src="https://komarev.com/ghpvc/?username=CoockieVii&style=flat-square&color=blue" alt=""></a>
 Hi! My name is Ilmir, Python-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 
