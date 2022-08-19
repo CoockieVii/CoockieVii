@@ -1,4 +1,4 @@
-### :woman_technologist: About Me : <a align="centr"><img src="https://komarev.com/ghpvc/?username=CoockieVii&style=flat-square&color=blue" alt=""></a>
+### :woman_technologist: About Me : <a align="centr"><img src="https://komarev.com/ghpvc/?username=cookievii&style=flat-square&color=blue" alt=""></a>
 #### Hi! My name is Ilmir, Python-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 ------
 
@@ -17,5 +17,5 @@
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=CoockieVii&layout=compact&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CoockieVii&layout=compact&theme=vision-friendly-dark)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookievii&layout=compact&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookievii&layout=compact&theme=vision-friendly-dark)
