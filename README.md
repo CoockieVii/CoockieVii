@@ -21,10 +21,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookievii&layout=compact&theme=vision-friendly-dark)
 
 Большой (large):  
-[![codewars](https://www.codewars.com/users/username/badges/large)](https://www.codewars.com/users/CookieVII)   
+[![codewars](https://www.codewars.com/users/CookieVII/badges/large)](https://www.codewars.com/users/CookieVII)   
 
 Маленький (small):  
-[![codewars](https://www.codewars.com/users/username/badges/small)](https://www.codewars.com/users/CookieVII) 
+[![codewars](https://www.codewars.com/users/CookieVII/badges/small)](https://www.codewars.com/users/CookieVII) 
 
 Крошечный (micro):  
-[![codewars](https://www.codewars.com/users/username/badges/micro)](https://www.codewars.com/users/CookieVII) 
+[![codewars](https://www.codewars.com/users/CookieVII/badges/micro)](https://www.codewars.com/users/CookieVII) 
