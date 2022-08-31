@@ -1,9 +1,9 @@
 ### :woman_technologist: About Me : <a align="centr"><img src="https://komarev.com/ghpvc/?username=cookievii&style=flat-square&color=blue" alt=""></a>
 #### Hi! My name is Ilmir, Python-Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+
 ------
 
 ### :hammer_and_wrench: Languages and Tools :
-
 <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain-wordmark.svg" title="Django" alt="Django" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/nginx/nginx-original.svg" title="Nginx" alt="Nginx" width="40" height="40"/>&nbsp;
@@ -15,16 +15,16 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original-wordmark.svg" title="Gitlab" alt="Gitlab" width="40" height="40"/>&nbsp;
 
-### :fire: My Stats :
+------
 
+### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookievii&layout=compact&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookievii&layout=compact&theme=vision-friendly-dark)
 
-Большой (large):  
+------
+
+### :fire: My Stats :
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=My+codewars+profile)](https://git.io/typing-svg)
+
+CodeWars:  
 [![codewars](https://www.codewars.com/users/CookieVII/badges/large)](https://www.codewars.com/users/CookieVII)   
-
-Маленький (small):  
-[![codewars](https://www.codewars.com/users/CookieVII/badges/small)](https://www.codewars.com/users/CookieVII) 
-
-Крошечный (micro):  
-[![codewars](https://www.codewars.com/users/CookieVII/badges/micro)](https://www.codewars.com/users/CookieVII) 
