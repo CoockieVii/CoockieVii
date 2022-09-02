@@ -20,10 +20,9 @@
 ### :fire: My Stats :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cookievii&layout=compact&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookievii&layout=compact&theme=vision-friendly-dark)
-
+<!-- 
 ------
 
 ### :dart: Educational Platform :
 [![codewars](https://www.codewars.com/users/CookieVII/badges/large)](https://www.codewars.com/users/CookieVII)
-Темная тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=valitovilmir29&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=valitovilmir29&theme=dark)](https://github.com/KnlnKS/leetcode-stats) -->
