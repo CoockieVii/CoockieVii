@@ -26,4 +26,4 @@
 ### :dart: Educational Platform :
 [![codewars](https://www.codewars.com/users/CookieVII/badges/large)](https://www.codewars.com/users/CookieVII)
 Темная тема:  
-[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=CookieVII&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
+[![KnlnKS's LeetCode stats](https://leetcode-stats-six.vercel.app/api?username=valitovilmir29&theme=dark)](https://github.com/KnlnKS/leetcode-stats)
